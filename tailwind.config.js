@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {},
     fontFamily: {
-      pen: ["Inter", "sans-serif"],
+      gilroy: ["Gilroy", "sans-serif"],
     },
   },
   plugins: [],
